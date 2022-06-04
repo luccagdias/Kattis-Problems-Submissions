@@ -10,6 +10,7 @@ Atualmente, as principais linguagens que tenho focado para a resolução dos pro
 - C
 - Go
 - Java
+- Python
 
 Cada linguagem tem suas particularidades e suas vantagens em relação à outra.
 
@@ -23,10 +24,11 @@ Caso a implementação utilizando a linguagem "do dia" seja completamente inviá
 Para facilitar a procura, os nomes dos arquivos são salvos de acordo com o id do problema, podendo ser acessado pelo seguinte endereço:
 - https://open.kattis.com/problems/ + _id do problema sem a extenção_
 
-Para as linguages C e Go, os arquivos são salvos com o nome identico ao id do problema no Kattis.\
+Para as linguages C, Go e Python, os arquivos são salvos com o nome identico ao id do problema no Kattis.\
 Para a linguagem Java, o nome do arquivo é salvo identico ao id do problema, porém com o padrão Camel Case.
 
 Exemplo:
 - sevenwonders.c
 - oddecho.go
 - TransitWoes.java
+- drmmessages.py
